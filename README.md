@@ -4,30 +4,5 @@
 
 ### Schipol Airport Official Api https://developer.schiphol.nl/login.
 
-{
-"extends": "@hunghg255/eslint-config-react",
-"rules": {
-"quotes": 0,
-"@typescript-eslint/no-unused-vars": "warn",
-"unused-imports/no-unused-vars": "off",
-"import/order": "off",
-"import/no-unresolved": "error",
-"no-console": "off",
-"import/no-named-as-default": "off",
-"linebreak-style": "off",
-"prefer-const": "off",
-"multiline-ternary": "off",
-"unicorn/new-for-builtins": "off",
-"unicorn/prefer-query-selector": "off",
-"unicorn/consistent-function-scoping": "off",
-"unicorn/no-negated-condition": "off",
-"unicorn/explicit-length-check": "off",
-"unicorn/prefer-string-replace-all": "off",
-"unicorn/better-regex": "off",
-"unicorn/no-null": "off",
-"indent": "off",
-"react/prop-types": "off",
-"unicorn/switch-case-braces": "off",
-"unicorn/no-nested-ternary": "off"
-}
-}
+![Screenshot (143)](https://github.com/nikitenko1/demo-schiphol-flight-api/assets/20661870/69f92ed3-0a77-4793-8078-c1e0267a1ac1)
+![Screenshot (144)](https://github.com/nikitenko1/demo-schiphol-flight-api/assets/20661870/6d9b8037-0604-44e4-b1f8-29ee9d820aa4)
