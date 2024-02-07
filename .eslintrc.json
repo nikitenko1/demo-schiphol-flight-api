@@ -1,0 +1,18 @@
+{
+  "extends": ["react-app", "react-app/jest"],
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["src"],
+        "extensions": [".js", ".jsx", ".ts", ".d.ts", ".tsx"]
+      }
+    }
+  },
+  "rules": {
+    "no-console": 0,
+    "no-unused-vars": 1,
+    "import/no-unresolved": 2,
+    "no-undef": 2,
+    "no-use-before-define": 2
+  }
+}

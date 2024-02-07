@@ -1,0 +1,23 @@
+{
+  "name": "shipol",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rsbuild dev --open",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-toastify": "^10.0.4",
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^0.3.11",
+    "@rsbuild/plugin-react": "^0.3.11",
+    "eslint": "^8.0.0",
+    "eslint-config-react-app": "^7.0.1"
+  }
+}
